@@ -8,7 +8,7 @@
 * Email me at **samueletonarini@gmail.com** or **stonarini@cifpfbmoll.eu**
 * Take a look at [my website](https://hostileobject.xyz) for more info
 
-### Languages and Tools I'm Familliar With:
+### Languages and Tools I'm Familiar With:
 <p align left>
 	<a href="https://www.arduino.cc" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width=50/>
