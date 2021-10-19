@@ -5,6 +5,7 @@
 
 * Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
 * Visit my GitHub [primary account](https://github.com/hostileobject)
+* Email me at **samueletonarini@gmail.com** or **stonarini@cifpfbmoll.eu**
 * Take a look at [my website](https://hostileobject.xyz) for more info
 
 ### Languages and Tools I'm Familliar With:
@@ -114,3 +115,6 @@
 </p>
 
 ### Connect with Me:
+<a href="https://www.linkedin.com/in/samuele-tonarini-b43738125" targer="blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width=50/>
+</a>
