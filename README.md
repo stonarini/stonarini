@@ -3,10 +3,10 @@
 <p align=left><img src="https://komarev.com/ghpvc/?username=stonarini"/>
 <img src="https://www.codewars.com/users/stonarini/badges/micro"/></p>
 
-* Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
-* Visit my GitHub [primary account](https://github.com/hostileobject)
-* Email me at **samueletonarini@gmail.com** or **stonarini@cifpfbmoll.eu**
-* Take a look at [my website](https://hostileobject.xyz) for more info
+* :microscope: Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
+* :star2: Visit my GitHub [primary account](https://github.com/hostileobject)
+* :mailbox: Email me at **samueletonarini@gmail.com** or **stonarini@cifpfbmoll.eu**
+* :eyes: Take a look at [my website](https://hostileobject.xyz) for more info
 
 ### Languages and Tools I'm Familiar With:
 <p align left>
