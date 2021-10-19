@@ -1,10 +1,45 @@
 <h1 align=center>Hello There! I'm Samuele Tonarini</h1>
 <p align=center><img src="hello-there.gif" width=100 /></p>
-<img src="https://komarev.com/ghpvc/?username=stonarini"/>
-
-<img src="https://www.codewars.com/users/stonarini/badges/micro"/>
+<p align=left><img src="https://komarev.com/ghpvc/?username=stonarini"/>
+<img src="https://www.codewars.com/users/stonarini/badges/micro"/></p>
 
 * Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
 * Visit my GitHub [primary account](https://github.com/hostileobject)
 * Take a look at [my website](https://hostileobject.xyz) for more info
 
+### Languages and Tools I'm Familliar With:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=50/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" width=50/>
+
+### Connect with Me:
