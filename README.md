@@ -3,12 +3,12 @@
 <p align=left><img src="https://komarev.com/ghpvc/?username=stonarini"/>
 <img src="https://www.codewars.com/users/stonarini/badges/micro"/></p>
 
-* :microscope: Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
-* :star2: Visit my GitHub [primary account](https://github.com/hostileobject)
-* :mailbox: Email me at **samueletonarini@gmail.com** or **stonarini@cifpfbmoll.eu**
-* :eyes: Take a look at [my website](https://hostileobject.xyz) for more info
+* ### :microscope: Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
+* ### :star2: Visit my GitHub [primary account](https://github.com/hostileobject)
+* ### :mailbox: Email me at **samueletonarini@gmail.com** or **stonarini@cifpfbmoll.eu**
+* ### :eyes: Take a look at [my website](https://hostileobject.xyz) for more info
 
-### Languages and Tools I'm Familiar With:
+## Languages and Tools I'm Familiar With:
 <p align left>
 	<a href="https://www.arduino.cc" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width=50/>
@@ -114,7 +114,7 @@
 	</a>
 </p>
 
-### Connect with Me:
+## Connect with Me:
 <a href="https://www.linkedin.com/in/samuele-tonarini-b43738125" targer="blank">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width=50/>
 </a>
