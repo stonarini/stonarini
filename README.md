@@ -4,7 +4,6 @@
 <img src="https://www.codewars.com/users/stonarini/badges/micro"/></p>
 
 * :microscope: Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
-* :star2: Visit my GitHub [primary account](https://github.com/hostileobject)
 * :mailbox: Email me at **samueletonarini@gmail.com** or **stonarini@cifpfbmoll.eu**
 * :eyes: Take a look at [my website](https://hostileobject.xyz) for more info
 
