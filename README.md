@@ -1,10 +1,17 @@
 <h1 align=center>Hello There! I'm Samuele Tonarini</h1>
 <p align=center><img src="hello-there.gif" width=100 /></p>
-<p align=left><img src="https://komarev.com/ghpvc/?username=stonarini"/>
-<img src="https://www.codewars.com/users/stonarini/badges/micro"/></p>
+<p align=left>
+	<a href="">
+		<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+	</a>
+	<a href="">
+	<img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+	</a>
+	<img src="https://www.codewars.com/users/stonarini/badges/micro"/>
+</p>
 
 * :microscope: Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
-* :mailbox: Email me at **samueletonarini@gmail.com** or **stonarini@cifpfbmoll.eu**
+* :mailbox: Email me at **stonarini@cifpfbmoll.eu**
 * :eyes: Take a look at [my website](https://hostileobject.xyz) for more info
 
 ### Languages and Tools I'm Familiar With:
