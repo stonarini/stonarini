@@ -11,7 +11,8 @@
 <img src="https://www.codewars.com/users/stonarini/badges/small"/>
 
 * :microscope: Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
-* :mailbox: Email me at **stonarini@cifpfbmoll.eu**
+ * :star2: Visit my GitHub [primary account](https://github.com/hostileobject)
+* :mailbox: Email me at **stonarini@cifpfbmoll.eu** or **samueletonarini@gmail.com**
 * :eyes: Take a look at [my website](https://hostileobject.xyz) for more info
 
 ### Languages and Tools I'm Familiar With:
