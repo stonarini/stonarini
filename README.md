@@ -5,7 +5,7 @@
 		<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
 	</a>
 	<a href="https://bitbucket.org/stonarini/">
-		<img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+		<img src="https://img.shields.io/badge/Bitbucket-063985?style=for-the-badge&logo=bitbucket&logoColor=white"/>
 	</a>
 </p>
 <img src="https://www.codewars.com/users/stonarini/badges/small"/>
