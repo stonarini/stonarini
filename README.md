@@ -26,6 +26,12 @@
 	<a href="https://isocpp.org" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=50/>
 	</a>
+	<a href="https://www.java.com" targer="blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width=50/>
+	</a>
+	<a href="https://maven.apache.org" targer="blank">
+		<img src="https://api.iconify.design/vscode-icons/file-type-maven.svg" width=50/>
+	</a>
 	<a href="https://www.python.org" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=50/>
 	</a>
