@@ -50,6 +50,9 @@
 	<a href="https://www.sass-lang.com" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width=50/>
 	</a>
+	<a href="https://www.getbootstrap.com" targer="blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width=50/>
+	</a>
 	<a href="https://www.javascript.com" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width=50/>
 	</a>
@@ -70,6 +73,9 @@
 	</a>
 	<a href="https://www.nextjs.org" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width=50/>
+	</a>
+	<a href="https://www.angularjs.org" targer="blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width=50/>
 	</a>
 	<a href="https://www.mysql.com" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width=50/>
@@ -95,14 +101,23 @@
 	<a href="https://www.debian.org" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width=50/>
 	</a>
+	<a href="https://www.docker.com" targer="blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width=50/>
+	</a>
 	<a href="https://www.nginx.org" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width=50/>
+	</a>
+	<a href="https://www.digitalocean.com" targer="blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" width=50/>
 	</a>
 	<a href="https://www.vim.org" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width=50/>
 	</a>
 	<a href="https://code.visualstudio.com" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width=50/>
+	</a>
+	<a href="https://www.jetbrains.com/idea" targer="blank">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width=50/>
 	</a>
 	<a href="https://www.git-scm.com" targer="blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width=50/>
