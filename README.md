@@ -180,5 +180,5 @@
 * [SRN MI](https://srn-mi.hostileobject.xyz) [:link:](https://github.com/hostileobject/) (private)
 * [Phime](https://time.hostileobject.xyz) :construction: WIP
 
-<p align=center><img src="goddamn-stonarini.jpg"/></p>
+<p align=center><img src="goddamn-stonarini-commit.jpg"/></p>
 
