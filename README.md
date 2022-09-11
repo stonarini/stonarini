@@ -179,3 +179,6 @@
 * [Bunyols](https://bunyols.hostileobject.xyz) [:link:](https://github.com/stonarini/Bunyols)
 * [SRN MI](https://srn-mi.hostileobject.xyz) [:link:](https://github.com/hostileobject/) (private)
 * [Phime](https://time.hostileobject.xyz) :construction: WIP
+
+<img src="goddamn-stonarini.jpg"/>
+
