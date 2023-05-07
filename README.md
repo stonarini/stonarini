@@ -175,10 +175,5 @@
 	</a>
 </p>
 
-### Deployed Projects:
-* [Bunyols](https://bunyols.hostileobject.xyz) [:link:](https://github.com/stonarini/Bunyols)
-* [SRN MI](https://srn-mi.hostileobject.xyz) [:link:](https://github.com/hostileobject/) (private)
-* [Phime](https://time.hostileobject.xyz) :construction: WIP
-
 <p align=center><img src="goddamn-stonarini-commit.jpg"/></p>
 
