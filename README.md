@@ -10,10 +10,10 @@
 </p>
 <img src="https://www.codewars.com/users/stonarini/badges/small"/>
 
-* :microscope: Currently studying *CFGS DAW Dual* in [Francesc de Borja Moll](https://www.cifpfbmoll.eu)
-* :star2: Visit my GitHub [personal account](https://github.com/hostileobject)
-* :mailbox: Email me at **stonarini@cifpfbmoll.eu** or **samueletonarini@gmail.com**
-* :eyes: Take a look at [my website](https://hostileobject.xyz) for more info
+* :wrench: Working as a Full-Stack Developer @ Kumo Consultoría[](https://www.kumoconsultoria.com)
+* :star2: Visit old [GitHub account](https://github.com/hostileobject)
+* :mailbox: Email me at **samueletonarini@gmail.com**
+* :eyes: Take a look at [my website](https://stonarini.dev) for more info
 
 ### Languages and Tools I'm Familiar With:
 <p align left>
