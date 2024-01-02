@@ -11,9 +11,7 @@
 <img src="https://www.codewars.com/users/stonarini/badges/small"/>
 
 * :wrench: Working as a Full-Stack Developer @ Kumo Consultoría[](https://www.kumoconsultoria.com)
-* :star2: Visit old [GitHub account](https://github.com/hostileobject)
 * :mailbox: Email me at **samueletonarini@gmail.com**
-* :eyes: Take a look at [my website](https://stonarini.dev) for more info
 
 ### Languages and Tools I'm Familiar With:
 <p align left>
