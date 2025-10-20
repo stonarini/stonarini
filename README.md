@@ -29,11 +29,11 @@ Feel free to explore my repositories for more.
 
 ### Writing
 
-I occasionally write about technology, finance, and my experiments.  
-You can find all my articles on:
+I occasionally write about my interests, projects, and "stuff".  
+You can find my articles on:
 <p align=left>
-	<a href="https://etruriainsights.com/author/stonarini">
-		<img src="https://etruriainsights.com/wp-content/uploads/2024/12/logo-etrvria-completo-white.png" width=150/>
+	<a href="https://stimes.dost.pt/">
+		<img src="https://stimes.dost.pt/wp-content/uploads/2025/10/stimes.png" width=150/>
 	</a>
 </p>
 
@@ -41,7 +41,8 @@ You can find all my articles on:
 
 ### Let’s Connect
 
-- **Email:** samueletonarini@gmail.com  
+- **Email:** samueletonarini@gmail.com
+- **Matrix:** [@stonarini:dost.pt](https://matrix.to/#/@stonarini:dost.pt)
 - **LinkedIn:** [Samuele Tonarini](https://www.linkedin.com/in/samueletonarini/)
 
 I’m always happy to connect, collaborate, or chat about new ideas. Feel free to reach out!
