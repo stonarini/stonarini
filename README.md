@@ -1,11 +1,4 @@
 <h1 align=center>Hello There! I'm Samuele Tonarini</h1>
-
-<p align=left>
-	<a href="https://www.codewars.com/users/stonarini">
-		<img src="https://www.codewars.com/users/stonarini/badges/small"/>
-	</a>
-</p>
-
 ---
 
 ### About Me
@@ -33,7 +26,7 @@ I occasionally write about my interests, projects, and "stuff".
 You can find my articles on:
 <p align=left>
 	<a href="https://stimes.dost.pt/">
-		<img src="https://stimes.dost.pt/wp-content/uploads/2025/10/stimes.png" width=150/>
+		<img src="https://stimes.dost.pt/og-default.png" width=450/>
 	</a>
 </p>
 
@@ -44,6 +37,7 @@ You can find my articles on:
 - **Email:** samueletonarini@gmail.com
 - **Matrix:** [@stonarini:dost.pt](https://matrix.to/#/@stonarini:dost.pt)
 - **LinkedIn:** [Samuele Tonarini](https://www.linkedin.com/in/samueletonarini/)
+- **Hugging Face:** [stonarini](https://huggingface.co/stonarini)
 
 I’m always happy to connect, collaborate, or chat about new ideas. Feel free to reach out!
 
